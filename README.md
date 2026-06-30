@@ -15,6 +15,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0018-4sum](https://github.com/AbhishekGrover1/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekGrover1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhishekGrover1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhishekGrover1/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhishekGrover1/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/AbhishekGrover1/Leetcode/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
