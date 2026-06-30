@@ -55,11 +55,13 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0014-longest-common-prefix](https://github.com/AbhishekGrover1/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AbhishekGrover1/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AbhishekGrover1/Leetcode/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhishekGrover1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AbhishekGrover1/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/AbhishekGrover1/Leetcode/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekGrover1/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AbhishekGrover1/Leetcode/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
