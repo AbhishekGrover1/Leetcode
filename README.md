@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0047-permutations-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AbhishekGrover1/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AbhishekGrover1/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/AbhishekGrover1/Leetcode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of my LeetCode solutions, showcasing problem-solving skills, data s
 | [0040-combination-sum-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AbhishekGrover1/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AbhishekGrover1/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/AbhishekGrover1/Leetcode/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
